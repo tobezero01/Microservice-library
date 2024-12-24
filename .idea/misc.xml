@@ -4,6 +4,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/discoverServer/pom.xml" />
+        <option value="$PROJECT_DIR$/bookService/pom.xml" />
       </list>
     </option>
   </component>
